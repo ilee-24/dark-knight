@@ -2,8 +2,6 @@ leela krishna rayal
 chittoor
 DevOps traniee
 working on git pull
-<<<<<<< HEAD
 conflict merge
-=======
 merge conflict
->>>>>>> refs/remotes/origin/main
+anasible is a managnt tool
