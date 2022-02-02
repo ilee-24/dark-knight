@@ -4,4 +4,8 @@ DevOps traniee
 working on git pull
 conflict merge
 merge conflict
+<<<<<<< HEAD
 docker is way to isolate application
+=======
+anasible is a managnt tool
+>>>>>>> d5bfdf15903612343cd23878915b33d9105b0645
